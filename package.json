@@ -1,0 +1,24 @@
+{
+  "name": "week08ex01_js_intro",
+  "version": "1.0.0",
+  "description": "Alert and prompt functions in JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/psdubowik/kodilla-w08e01-js-intro.git"
+  },
+  "keywords": [
+    "js",
+    "prompt",
+    "alert"
+  ],
+  "author": "PSD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/psdubowik/kodilla-w08e01-js-intro/issues"
+  },
+  "homepage": "https://github.com/psdubowik/kodilla-w08e01-js-intro#readme"
+}
